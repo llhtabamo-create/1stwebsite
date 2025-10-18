@@ -7,28 +7,17 @@
   <meta charset="UTF-8">
   <title>Medication Administration Record</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h2 {
-      text-align: center;
-    }
-    table {
-      width: 100%;
+    body {font-family: Arial, sans-serif;
+      margin: 20px; }
+    h2 {text-align: center;}
+    table {width: 100%;
       border-collapse: collapse;
-      margin-top: 20px;
-    }
-    th, td {
-      border: 1px solid #333;
+      margin-top: 20px;}
+    th, td {border: 1px solid #333;
       padding: 8px;
-      text-align: center;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
-    .sub-header {
-      font-weight: bold;
+      text-align: center;}
+    th {background-color: #f2f2f2;}
+    .sub-header {font-weight: bold;
       background-color: #e0e0e0;
     }
   </style>
