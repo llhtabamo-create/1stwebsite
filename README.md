@@ -1,34 +1,5 @@
 # Medication Administration Record
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Medication Administration Record</title>
-  <style>
-    body {font-family: Arial, sans-serif;
-      margin: 20px; }
-    h2 {text-align: center;}
-    table {width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;}
-    th, td {border: 1px solid #333;
-      padding: 8px;
-      text-align: center;}
-    th {background-color: #f2f2f2;}
-    .sub-header {font-weight: bold;
-      background-color: #e0e0e0;
-    }
-  </style>
-</head>
-<body>
-
-  <h2>Medication Administration Record</h2>
-
-  <table>
-    <tr>
- <td>Name:</td><td></td>
+      <td>Name:</td><td></td>
       <td>Age:</td><td></td>
       <td>Sex:</td><td></td>
     </tr>
